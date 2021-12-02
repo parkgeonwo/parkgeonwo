@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gray)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gray$height=400&text=Park%Geonwoo)
 
 
 
