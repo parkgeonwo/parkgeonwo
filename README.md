@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F7CDCD&height=200&text=GeonwooPark&fontColor=FFFFFF&fontSize=40)
 
+데이터로 많은 것들을 만들어 보고 싶은 박건우 입니다. 
 
 ### 개발 노트 (onenote)
 https://onedrive.live.com/redir?resid=F684E59F71FF596D%217027&page=View&wd=target%28SQL.one%7C76e7d2fd-08ba-4191-a981-553ab2dd8351%2FSQL%20%EC%88%98%EC%97%85%20%EB%AA%A9%EC%B0%A8%7C2b95ef33-cf33-4352-b0d6-7007d0c5cec0%2F%29
