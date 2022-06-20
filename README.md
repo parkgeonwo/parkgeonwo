@@ -25,8 +25,8 @@ https://onedrive.live.com/redir?resid=F684E59F71FF596D%217027&page=View&wd=targe
 ### 깃 포트폴리오
 https://parkgeonwoo2.github.io/
 
-### 깃 블로그
-https://parkgeonwo.github.io/
+### 블로그
+https://tech-seller-developer.tistory.com/
 
 * * *
 
