@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 ### 포트폴리오
-[https://parkgeonwoo2.github.io/](https://powerful-drain-18f.notion.site/Geonwoo-Park-9c39ca06a5644057a654866ca5ed0e8b)
+https://powerful-drain-18f.notion.site/Geonwoo-Park-9c39ca06a5644057a654866ca5ed0e8b
 
 ### 블로그
 https://tech-seller-developer.tistory.com/
